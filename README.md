@@ -11,3 +11,5 @@ https://raw.githubusercontent.com/bill1812/geo-location/main/TectonicPlate.bound
 Right-hand rewinded:
 
 https://raw.githubusercontent.com/bill1812/geo-location/main/TectonicPlate.plates.geojson
+
+https://raw.githubusercontent.com/bill1812/geo-location/main/countries.geojson
