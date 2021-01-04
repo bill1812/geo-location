@@ -1,6 +1,7 @@
 {
 "type":"FeatureCollection",
 "features":[
+{"properties":{"utc":0,"country":"S. Atlantic Ocean","city":"World Center","tld":"--","iso3":"---","iso2":"--"},"geometry":{"type":"Point","coordinates":[0.0,0.0]},"type":"Feature","id":-1},
 {"properties":{"utc":6,"country":"Bangladesh","city":"Dhaka","tld":"bd","iso3":"BGD","iso2":"BD"},"geometry":{"type":"Point","coordinates":[90.40744,23.7104]},"type":"Feature","id":0},
 {"properties":{"utc":1,"country":"Belgium","city":"Brussels","tld":"be","iso3":"BEL","iso2":"BE"},"geometry":{"type":"Point","coordinates":[4.34878,50.85045]},"type":"Feature","id":1},
 {"properties":{"utc":0,"country":"Burkina Faso","city":"Ouagadougou","tld":"bf","iso3":"BFA","iso2":"BF"},"geometry":{"type":"Point","coordinates":[-1.53388,12.36566]},"type":"Feature","id":2},
@@ -51,7 +52,7 @@
 {"properties":{"utc":-3,"country":"Greenland","city":"Nuuk","tld":"gl","iso3":"GRL","iso2":"GL"},"geometry":{"type":"Point","coordinates":[-51.694167,64.181389]},"type":"Feature","id":47},
 {"properties":{"utc":1,"country":"Gibraltar","city":"Gibraltar","tld":"gi","iso3":"GIB","iso2":"GI"},"geometry":{"type":"Point","coordinates":[-5.35,36.133333]},"type":"Feature","id":48},
 {"properties":{"utc":0,"country":"Ghana","city":"Accra","tld":"gh","iso3":"GHA","iso2":"GH"},"geometry":{"type":"Point","coordinates":[-0.1969,5.55602]},"type":"Feature","id":49},
-{"properties":{"utc":4,"country":"Oman","city":"Muscat","tld":"om","iso3":"OMN","iso2":"OM"},"geometry":{"type":"Point","coordinates":[58.408333,23.588889]},"type":"Feature","id":50},
+{"properties":{"utc":4,"country":"Oman","city":"Muscat","tld":"om","iso3":"OMN","iso2":"OM"},"geometry":{"type":"Point","coordinates":[58.545284,23.614328]},"type":"Feature","id":50},
 {"properties":{"utc":1,"country":"Tunisia","city":"Tunis","tld":"tn","iso3":"TUN","iso2":"TN"},"geometry":{"type":"Point","coordinates":[10.181667,36.806389]},"type":"Feature","id":51},
 {"properties":{"utc":2,"country":"Jordan","city":"Amman","tld":"jo","iso3":"JOR","iso2":"JO"},"geometry":{"type":"Point","coordinates":[35.932778,31.949722]},"type":"Feature","id":52},
 {"properties":{"utc":1,"country":"Croatia","city":"Zagreb","tld":"hr","iso3":"HRV","iso2":"HR"},"geometry":{"type":"Point","coordinates":[15.97798,45.81444]},"type":"Feature","id":53},
