@@ -13,3 +13,7 @@ Right-hand rewinded:
 https://raw.githubusercontent.com/bill1812/geo-location/main/TectonicPlate.plates.geojson
 
 https://raw.githubusercontent.com/bill1812/geo-location/main/countries.geojson
+
+Font changed:
+
+https://raw.githubusercontent.com/bill1812/geo-location/main/starnames.json
