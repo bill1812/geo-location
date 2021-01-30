@@ -17,3 +17,9 @@ https://raw.githubusercontent.com/bill1812/geo-location/main/countries.geojson
 Font changed:
 
 https://raw.githubusercontent.com/bill1812/geo-location/main/starnames.json
+
+Easy Play Map: Suck World!
+
+https://raw.githubusercontent.com/bill1812/geo-location/main/SuckWorld.geojson
+
+https://raw.githubusercontent.com/bill1812/geo-location/main/SuckWorld.topojson
